@@ -132,3 +132,9 @@ dmypy.json
 .vscode/
 .idea/
 *.iml
+
+# Test Data
+/tests/data/tmp/**
+
+
+!**.gitkeep
